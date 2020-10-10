@@ -1,0 +1,34 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Controls.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Targeting.cs" Line="73" Column="40" />
+      <File FileName="Assets\Scripts\Cubehealth.cs" Line="23" Column="2" />
+      <File FileName="Assets\Scripts\Main Menu\CreditsMenu.cs" Line="11" Column="2" />
+      <File FileName="Assets\Scripts\Main Menu\MainMenuLevel2.cs" Line="7" Column="101" />
+      <File FileName="Assets\Scripts\Main Menu\MainMenuTitle.cs" Line="11" Column="2" />
+      <File FileName="Assets\Scripts\EnemyAttack.cs" Line="40" Column="31" />
+      <File FileName="Assets\Scripts\EnemyAI.cs" Line="22" Column="18" />
+      <File FileName="Assets\Scripts\TextboxScene2.cs" Line="9" Column="1" />
+      <File FileName="Assets\Scripts\TextboxScene3.cs" Line="6" Column="83" />
+      <File FileName="Assets\Scripts\Main Menu\ControlsMenu.cs" Line="3" Column="1" />
+      <File FileName="Assets\Scripts\TextboxScene1.cs" Line="8" Column="2" />
+      <File FileName="Assets\Scripts\Controls.cs" Line="8" Column="2" />
+      <File FileName="Assets\Scripts\Main Menu\MainMenuLevel3.cs" Line="7" Column="105" />
+      <File FileName="Assets\Scripts\Main Menu\MainMenu.cs" Line="11" Column="2" />
+      <File FileName="Assets\Scripts\DragonAttack.cs" Line="40" Column="30" />
+      <File FileName="Assets\Scripts\LevelAttack.cs" Line="40" Column="30" />
+      <File FileName="Assets\Scripts\Main Menu\LeaveGameButton.cs" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\LeaveGame.cs" Line="10" Column="2" />
+      <File FileName="Assets\Scripts\Enemyhealth.cs" Line="4" Column="14" />
+      <File FileName="Assets\Scripts\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DragonAI.cs" Line="22" Column="18" />
+      <File FileName="Assets\Scripts\Playerhealth.cs" Line="11" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
