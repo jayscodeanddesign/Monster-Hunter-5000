@@ -14,11 +14,13 @@ You may need to move the items from the MOVE_TO_ROOT Folder to the root folder i
 1) Download Packaged Contents
 2) Move contents from "MOVE_TO_ROOT" folder to root folder.
 3) Run the .exe file to play.
-4) Have Fun! :-)
+4) Have Fun. :-)
 ```
 
 ## Thank You
 
 Thank you for checking out my first programming college application project.
+
+Here is the YouTube Video that went with it: [https://youtu.be/J4DVKxAQnNk](https://youtu.be/J4DVKxAQnNk).
 
 Make sure to visit my website [www.thesitesurgeon.com](https://www.thesitesurgeon.com) to find out where to follow me.
