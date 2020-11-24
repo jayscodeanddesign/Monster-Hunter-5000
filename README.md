@@ -21,4 +21,4 @@ You may need to move the items from the MOVE_TO_ROOT Folder to the root folder i
 
 Thank you for checking out my first programming college application project.
 
-Make sure to visit my website [www.thesitesurgeon.com](www.thesitesurgeon.com) to find out where to follow me.
+Make sure to visit my website [www.thesitesurgeon.com](https://www.thesitesurgeon.com) to find out where to follow me.
